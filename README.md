@@ -7,7 +7,7 @@ Projeto simples de calculadora criado para comprovação de autoria em atividade
 ## Autor
 - **Nome:** Matheus Barbosa Quadra 
 - **Curso:** Análise e Desenvolvimento de Sistemas  
-- **Instituição:** Nome da Faculdade  
+- **Instituição:** Gran Faculdade
 - **Data:** 09/08/2025
 
 ---

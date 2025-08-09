@@ -2,6 +2,8 @@
 
 Projeto simples de calculadora criado para comprovação de autoria em atividades complementares do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
+link para visualizar o projeto: https://matheusbarbosactb-cell.github.io/meu-projeto-ads/
+
 ---
 
 ## Autor
